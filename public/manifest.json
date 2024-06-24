@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "__MSG_name__",
+  "short_name": "__MSG_short_name__",
+  "description": "__MSG_description__",
+  "default_locale": "en",
+  "background": {
+    "service_worker": "static/js/background.js"
+  },
+  "action": {
+    "default_title": "__MSG_action_default_title__"
+  },
+  "icons": {
+    "128": "assets/icon_128.png"
+  },
+  "permissions": ["storage", "favicon", "alarms", "background", "bookmarks"],
+  "web_accessible_resources": [
+    {
+      "resources": ["_favicon/*"],
+      "matches": ["<all_urls>"],
+      "extension_ids": ["*"]
+    }
+  ]
+}

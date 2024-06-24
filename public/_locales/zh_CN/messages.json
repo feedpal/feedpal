@@ -1,0 +1,17 @@
+{
+  "lang": {
+    "message": "zh"
+  },
+  "name": {
+    "message": "FeedPal"
+  },
+  "short_name": {
+    "message": "FeedPal"
+  },
+  "action_default_title": {
+    "message": "FeedPal"
+  },
+  "description": {
+    "message": "自动订阅你收藏的博客。"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "lang": {
+    "message": "en"
+  },
+  "name": {
+    "message": "FeedPal"
+  },
+  "short_name": {
+    "message": "FeedPal"
+  },
+  "action_default_title": {
+    "message": "FeedPal"
+  },
+  "description": {
+    "message": "Subscribe to blogs you bookmark automatically."
+  }
+}
